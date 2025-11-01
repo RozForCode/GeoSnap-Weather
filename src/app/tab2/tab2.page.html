@@ -1,0 +1,89 @@
+<ion-header [translucent]="true" class="page-header">
+  <ion-toolbar>
+    <ion-title class="ion-text-center">
+      Ontario Tab
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Ontario Tab</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+
+
+  <div class="message-box" [innerHTML]="receivedMessage"></div>
+
+  <div class="full-width-table-container" style="max-height: 400px; overflow: auto;">
+    <h2 class="table-heading">Greenhouse Gas Emissions by Facility (Canada)</h2>
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8 full-width-table">
+
+    <!-- select  -->
+    <ng-container matColumnDef="select">
+      <th mat-header-cell *matHeaderCellDef></th>
+      <td mat-cell *matCellDef="let element">
+        <mat-radio-button
+          name="recordSelection"
+          [value]="element"
+          (change)="onSelect(element)"
+          [checked]="selectedRecord === element">
+        </mat-radio-button>
+      </td>
+    </ng-container>
+
+    <!-- Year -->
+    <ng-container matColumnDef="year">
+      <th mat-header-cell *matHeaderCellDef> Year </th>
+      <td mat-cell *matCellDef="let element"> {{element.year}} </td>
+    </ng-container>
+
+    <!-- Facility Name -->
+    <ng-container matColumnDef="facilityName">
+      <th mat-header-cell *matHeaderCellDef> Facility Name </th>
+      <td mat-cell *matCellDef="let element"> {{element.facilityName}} </td>
+    </ng-container>
+
+    <!-- Facility City -->
+    <ng-container matColumnDef="facilityCity">
+      <th mat-header-cell *matHeaderCellDef> City </th>
+      <td mat-cell *matCellDef="let element"> {{element.facilityCity}} </td>
+    </ng-container>
+
+    <!-- Total CO2e -->
+    <ng-container matColumnDef="totalCO2e">
+      <th mat-header-cell *matHeaderCellDef> Total CO2e (t) </th>
+      <td mat-cell *matCellDef="let element"> {{element.totalCO2e | number}} </td>
+    </ng-container>
+
+    <!-- Reporting Amount -->
+    <ng-container matColumnDef="reportingAmount">
+      <th mat-header-cell *matHeaderCellDef> Reporting Amount (t) </th>
+      <td mat-cell *matCellDef="let element"> {{element.reportingAmount}} </td>
+    </ng-container>
+
+    <!-- Verification Body -->
+    <ng-container matColumnDef="verificationBody">
+      <th mat-header-cell *matHeaderCellDef> Verification Body </th>
+      <td mat-cell *matCellDef="let element"> {{element.verificationBody}} </td>
+    </ng-container>
+
+    <!-- Table Headers and Rows -->
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+</div>
+
+
+  <ion-button class="neon-btn full-width-btn" *ngIf="selectedRecord"  (click)="gotoDetailsPage()">Send Selected to Details Page</ion-button>
+
+<app-air-quality></app-air-quality>
+
+
+</ion-content>
+
+
+

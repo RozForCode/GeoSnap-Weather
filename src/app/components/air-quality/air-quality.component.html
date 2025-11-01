@@ -1,0 +1,43 @@
+
+<div class="aqhi-container">
+  <div class="center">
+    <h2 class="title">🌍 Air Quality Index</h2>
+
+    <ion-searchbar
+      [(ngModel)]="searchTerm"
+      (ionInput)="filterEntries()"
+      placeholder="Search by city/station..."
+      class="searchbar-glass"
+    ></ion-searchbar>
+  </div>
+  
+
+  <div *ngIf="aqhiEntries.length > 0; else loading" class="list-container">
+    <ion-list class="aqhi-list">
+      <ion-item *ngFor="let entry of aqhiEntries" class="aqhi-item">
+        <ion-label>
+          <!-- <h2 class="entry-title">{{ entry.title }}</h2>
+          <p>Status: <strong>{{ entry.summary }}</strong></p> -->
+          <h2 class="entry-title">{{ entry.title?.__cdata || entry.title }}</h2>
+          <p>Status: <strong>{{ entry.summary?.__cdata || entry.summary }}</strong></p>
+          <p>Updated: {{ entry.updated | date:'medium' }}</p>
+          <!-- <a [href]="entry.link?.$.href" target="_blank" class="btn-link">View Details</a> -->
+           <a *ngIf="entry.link?._href" 
+              [href]="entry.link._href" 
+              target="_blank" 
+              class="btn-link">
+              View Details
+          </a>
+
+        </ion-label>
+      </ion-item>
+    </ion-list>
+    <ion-infinite-scroll>
+        <ion-infinite-scroll-content loadingText="Please wait..." loadingSpinner="bubbles"></ion-infinite-scroll-content>
+    </ion-infinite-scroll>
+  </div>
+
+  <ng-template #loading>
+    <p class="loading-text">Loading air quality data...</p>
+  </ng-template>
+</div>

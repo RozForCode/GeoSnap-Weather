@@ -1,0 +1,1609 @@
+{
+		"entry": [
+			{
+				"title": {
+					"__cdata": " Windsor Downtown: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=12008"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-12008-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Windsor Downtown: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=12008"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-12008-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Windsor Downtown: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=12008"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-12008-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Windsor West: Current Observation "
+				},
+				"summary": "Not Available",
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=12016"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-12016-0:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Windsor West: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=12016"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-12016-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Windsor West: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=12016"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-12016-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Chatham: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=13001"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-13001-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Chatham: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=13001"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-13001-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Chatham: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=13001"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-13001-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Sarnia: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=14111"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-14111-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Sarnia: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=14111"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-14111-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Sarnia: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=14111"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-14111-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " London: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=15026"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-15026-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " London: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=15026"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-15026-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " London: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=15026"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-15026-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Port Stanley: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=16015"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-16015-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Port Stanley: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=16015"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-16015-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Port Stanley: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=16015"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-16015-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Tiverton: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=18007"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-18007-3:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Tiverton: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=18007"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-18007-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Tiverton: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=18007"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-18007-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Brantford: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=21005"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-21005-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Brantford: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=21005"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-21005-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Brantford: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=21005"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-21005-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Kitchener: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=26060"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-26060-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Kitchener: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=26060"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-26060-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Kitchener: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=26060"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-26060-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " St. Catharines: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=27067"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-27067-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " St. Catharines: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=27067"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-27067-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " St. Catharines: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=27067"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-27067-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Guelph: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=28028"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-28028-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Guelph: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=28028"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-28028-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Guelph: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=28028"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-28028-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton West: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29118"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-29118-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton West: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29118"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-29118-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton West: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29118"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-29118-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton Mountain: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29214"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-29214-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton Mountain: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29214"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-29214-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton Mountain: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29214"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-29214-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto Downtown: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=31129"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-31129-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto Downtown: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=31129"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-31129-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto Downtown: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=31129"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-31129-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto East: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=33003"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-33003-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto East: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=33003"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-33003-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto East: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=33003"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-33003-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto North: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=34021"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-34021-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto North: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=34021"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-34021-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto North: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=34021"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-34021-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto West: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=35125"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-35125-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto West: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=35125"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-35125-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Toronto West: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=35125"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-35125-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Burlington: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44008"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-44008-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Burlington: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44008"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-44008-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Burlington: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44008"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-44008-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Oakville: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44017"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-44017-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Oakville: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44017"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-44017-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Oakville: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44017"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-44017-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Milton: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44029"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-44029-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Milton: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44029"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-44029-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Milton: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=44029"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-44029-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Oshawa: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=45027"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-45027-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Oshawa: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=45027"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-45027-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Oshawa: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=45027"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-45027-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Brampton: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=46090"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-46090-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Brampton: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=46090"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-46090-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Brampton: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=46090"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-46090-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Mississauga: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=46108"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-46108-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Mississauga: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=46108"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-46108-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Mississauga: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=46108"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-46108-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Barrie: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=47045"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-47045-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Barrie: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=47045"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-47045-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Barrie: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=47045"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-47045-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Newmarket: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=48006"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-48006-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Newmarket: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=48006"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-48006-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Newmarket: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=48006"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-48006-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Parry Sound: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=49005"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-49005-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Parry Sound: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=49005"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-49005-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Parry Sound: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=49005"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-49005-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Dorset: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=49010"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-49010-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Dorset: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=49010"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-49010-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Dorset: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=49010"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-49010-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Ottawa Downtown: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=51001"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-51001-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Ottawa Downtown: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=51001"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-51001-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Ottawa Downtown: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=51001"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-51001-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Kingston: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=52023"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-52023-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Kingston: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=52023"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-52023-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Kingston: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=52023"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-52023-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Belleville: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=54012"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-54012-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Belleville: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=54012"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-54012-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Belleville: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=54012"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-54012-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Cornwall: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=56051"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-56051-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Cornwall: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=56051"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-56051-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Cornwall: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=56051"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-56051-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Thunder Bay: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 1 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=63203"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-63203-1:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Thunder Bay: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=63203"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-63203-2:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Thunder Bay: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=63203"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-63203-2:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Sault Ste. Marie: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 1 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=71078"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-71078-1:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Sault Ste. Marie: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=71078"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-71078-2:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Sault Ste. Marie: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=71078"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-71078-2:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Sudbury: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=77233"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-77233-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Sudbury: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=77233"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-77233-2:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Sudbury: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=77233"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-77233-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton Downtown: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29000"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-29000-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton Downtown: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29000"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-29000-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Hamilton Downtown: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=29000"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-29000-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Grand Bend: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=15020"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-15020-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Grand Bend: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=15020"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-15020-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Grand Bend: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 4 - Moderate Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=15020"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-15020-4:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Peterborough: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=59006"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-59006-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " Peterborough: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=59006"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-59006-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " Peterborough: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=59006"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-59006-3:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " North Bay: Current Observation "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T19:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=75010"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-75010-2:202509201900"
+			},
+			{
+				"title": {
+					"__cdata": " North Bay: Forecast Saturday Night "
+				},
+				"summary": {
+					"__cdata": " 2 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=75010"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f2-75010-2:202509201700"
+			},
+			{
+				"title": {
+					"__cdata": " North Bay: Forecast Sunday "
+				},
+				"summary": {
+					"__cdata": " 3 - Low Risk "
+				},
+				"updated": "2025-09-20T17:00:00-04:00",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/aqhi/today.php?sites=75010"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-aqhi-f3-75010-3:202509201700"
+			},
+			{
+				"title": "Disclaimer",
+				"summary": "This information is provided as a public service, but we cannot guarantee that it is current or accurate. Readers should verify the information before acting on it. This site is maintained by the Government of Ontario, Canada. Copyright: King's Printer for Ontario, 2025",
+				"link": {
+					"_type": "text/html",
+					"_href": "http://www.airqualityontario.com/science/disclaimer.php"
+				},
+				"id": "tag:airqualityontario.com,2025-09-20:ontario-disclaimer:202509201700",
+				"updated": "2025-09-20T17:00:00-04:00"
+			}
+		],
+		"_xmlns": "http://www.w3.org/2005/Atom"
+}

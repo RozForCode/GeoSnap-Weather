@@ -1,0 +1,7 @@
+{
+  "name": "Weather_AirQualityTracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
