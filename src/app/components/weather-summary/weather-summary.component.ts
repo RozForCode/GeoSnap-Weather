@@ -27,16 +27,25 @@ export class WeatherSummaryComponent  implements OnInit {
   weather$: Observable<any> = new Observable();
   constructor(private http:HttpClient) { }
 
-  async getCurrentLocation() {
-    try {
+async getCurrentLocation() {
+  try {
+    // Request location permissions first
+    const permission = await Geolocation.requestPermissions();
+    console.log('Permission status:', permission);
+
+    // Only proceed if permission is granted
+    if (permission.location === 'granted') {
       const coordinates = await Geolocation.getCurrentPosition();
       this.latitude = coordinates.coords.latitude;
       this.longitude = coordinates.coords.longitude;
       console.log('Current position:', this.latitude, this.longitude);
-    } catch (err) {
-      console.error('Error getting location:', err);
+    } else {
+      console.warn('Location permission not granted');
     }
+  } catch (err) {
+    console.error('Error getting location:', err);
   }
+}
   getStations() {
     this.weather$ = this.http.get<WeatherOverview>(`https://api.openweathermap.org/data/3.0/onecall/overview?lat=${this.latitude}&lon=${this.longitude}&appid=${environment.apiKey}`);
   }
