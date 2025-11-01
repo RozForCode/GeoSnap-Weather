@@ -3,7 +3,7 @@ Navrose Singh Johal
 
 #Info about Data Sources used:
 
-Weather Summary comes for this API (url contains my api key as well) - https://api.openweathermap.org/data/3.0/onecall/overview?lat=51.253775&lon=-85.323214&appid=286d47ada85fa43c8e2da32e9a0cae44
+Weather Summary comes for this API (url contains my api key as well) - https://api.openweathermap.org/data/3.0/onecall/overview?lat=51.253775&lon=-85.323214&appid={api key from env}
 
 Air Quality data comes - https://www.airqualityontario.com/press/xml_summary.php
 
