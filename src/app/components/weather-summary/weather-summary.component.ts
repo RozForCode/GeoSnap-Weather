@@ -46,9 +46,17 @@ async getCurrentLocation() {
     console.error('Error getting location:', err);
   }
 }
-  getStations() {
-    this.weather$ = this.http.get<WeatherOverview>(`https://api.openweathermap.org/data/3.0/onecall/overview?lat=${this.latitude}&lon=${this.longitude}&appid=${environment.apiKey}`);
-  }
+// getStations() {
+//   this.weather$ = this.http.get<WeatherOverview>(`https://api.openweathermap.org/data/3.0/onecall/overview?lat=${this.latitude}&lon=${this.longitude}&appid=${environment.apiKey}`);
+// }
+getStations() {
+  const body = {
+    lat: this.latitude,
+    lon: this.longitude
+  };
+
+  this.weather$ = this.http.post<WeatherOverview>('https://express-weather-server-g8bncca5fva8ekhq.canadacentral-01.azurewebsites.net/weather', body);
+}
 
   ngOnInit() {}
 

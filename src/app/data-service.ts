@@ -7,8 +7,6 @@ import { HttpClient } from '@angular/common/http';
 
 export class DataService {
 
-
-
   private airQualityData = new BehaviorSubject<any[]>([]); // for air quality component
   private messageSource = new BehaviorSubject<string>(''); // for  detail to tab2
   private EmissionData = new BehaviorSubject<any[]>([]); // for emission component
@@ -29,7 +27,7 @@ export class DataService {
 
 
     // for air quality data
-    const jsonUrl = 'assets/data/airQuality.json';
+    const jsonUrl = 'https://express-weather-server-g8bncca5fva8ekhq.canadacentral-01.azurewebsites.net/AirQuality';
 
     this.http.get<any>(jsonUrl).subscribe({
         next: (data) => {
@@ -42,7 +40,7 @@ export class DataService {
         });
 
         // for emission data
-    const jsonUrl2 = 'assets/data/ontario.json';
+    const jsonUrl2 = 'https://express-weather-server-g8bncca5fva8ekhq.canadacentral-01.azurewebsites.net/ontario';
     this.http.get<any>(jsonUrl2).subscribe({
         next: (data) => {
           console.log("Emission Data in Service: ", data);
